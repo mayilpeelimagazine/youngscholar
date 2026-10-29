@@ -1,19 +1,10 @@
-# Young Scholar Exam 2026 — Winner Poster Maker
+# Young Scholar Poster Maker — fixed
 
-Open `index.html` in a browser, or publish the entire folder using GitHub Pages.
+1. Open your GitHub repository `mayilpeelimagazine/youngscholar`.
+2. Upload BOTH `index.html` and `template.png` from this folder into the repository ROOT (not inside another folder).
+3. Choose **Replace** / commit changes if asked.
+4. Go to Settings > Pages; ensure deployment from the correct branch and `/ (root)`.
+5. Wait for the deployment and refresh https://mayilpeelimagazine.github.io/youngscholar/ with Ctrl+Shift+R.
+6. Add winner names/photos and click Download PNG.
 
-## Publish for free
-1. Create a public GitHub repository (for example, `young-scholar-poster`).
-2. Upload `index.html` and `template.png` to the repository root.
-3. Open repository **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**, branch **main**, folder **/(root)**, and save.
-5. GitHub will show your website URL after deployment.
-
-## Features
-- First, second and third place image upload and names
-- Malayalam Unicode text entry (device/browser must support Malayalam fonts)
-- Live preview, drag-to-position and photo zoom
-- PNG download at 1024 × 1536
-- Client-side only: no photo uploads to a server
-
-The background template is a flattened PNG. Its logo and headline are part of the image and cannot be edited with this version.
+The poster template includes the brand ambassador. All image processing is done in the browser. On iPhone, if a PNG opens in a new tab, use Share > Save Image.
